@@ -1,0 +1,5 @@
+outs:
+- md5: f2dd74e8b7df223603e395c33701f99b
+  size: 24
+  hash: md5
+  path: dd.txt
